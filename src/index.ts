@@ -7,6 +7,7 @@
 |----------------------------------------------------------------------------*/
 'use strict';
 
+
 import {
   IDisposable
 } from 'phosphor-disposable';
